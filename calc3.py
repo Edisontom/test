@@ -1,5 +1,5 @@
 number1=float(input("Please enter first number:"))
-action=str(input("Enter '+', '-', '*' or '/':"))
+action=str(input("Enter '+', '-', '*' or '/': "))
 number2=float(input("Please enter second number:"))
 
 calc = {
