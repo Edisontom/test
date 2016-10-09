@@ -12,7 +12,7 @@ calc = {
 }
 
 if calc == "/" and number2 ==0:
-    print ("Error,  divide to '0'")
+    print ("Error,  divide to 'zero'")
 else:
     print(calc.get(action))
 
